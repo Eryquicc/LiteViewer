@@ -1,2 +1,3 @@
 # LiteViewer
-A simple, lightweight, and fast image viewer.
+
+LiteViewer is a program for viewing photos, designed to be simple, lightweight, and fast.
